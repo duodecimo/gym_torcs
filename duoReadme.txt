@@ -42,8 +42,11 @@ Estou listando para garantir, mas, vou colocar um arquivo de criação em meu cl
 - Caso ainda não o fez, inicie o ambiente ddpg (comando ubuntu):
    source activate ddpg
 
-- Rode o código run.sh logado na pasta
-   (listagem do arquivo run.sh:
+- Rode o código run.sh logado na pasta DDPG-Keras-Torcs/.
+   (O arquivo run.sh deverá ser colocado na pasta DDPG-Keras-Torcs/.
+    Cuidado, estou colocando uma cópia na pasta gym_torcs/ do meu clone do Nama, mas
+    é só para facilitar. Deve ser movido para DDPG-Keras-Torcs/  !!!
+    listagem do arquivo run.sh:
     #!/bin/sh
     # código run.sh
     cp *.* ../gym_torcs
