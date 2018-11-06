@@ -1,0 +1,60 @@
+name: ddpg
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ca-certificates=2018.8.24=ha4d7672_0
+  - certifi=2018.8.24=py27_1001
+  - freetype=2.9.1=h6debe1e_4
+  - funcsigs=1.0.2=py_2
+  - h5py=2.8.0=py27h7eb728f_3
+  - hdf5=1.10.2=hc401514_2
+  - jpeg=9c=h470a237_1
+  - libffi=3.2.1=hfc679d8_5
+  - libgcc-ng=7.2.0=hdf63c60_3
+  - libgfortran=3.0.0=1
+  - libgfortran-ng=7.2.0=hdf63c60_3
+  - libgpuarray=0.7.6=h470a237_3
+  - libpng=1.6.35=ha92aebf_2
+  - libprotobuf=3.6.1=hd28b015_0
+  - libstdcxx-ng=7.2.0=hdf63c60_3
+  - libtiff=4.0.9=he6b73bb_2
+  - linecache2=1.0.0=py_1
+  - mako=1.0.7=py_1
+  - markupsafe=1.0=py27h470a237_1
+  - mkl_fft=1.0.6=py27_0
+  - mkl_random=1.0.1=py27_0
+  - mock=2.0.0=py27_1000
+  - ncurses=6.1=hfc679d8_1
+  - olefile=0.46=py_0
+  - openssl=1.0.2p=h470a237_0
+  - pbr=4.2.0=py_0
+  - pillow=5.3.0=py27hc736899_0
+  - pip=18.1=py27_1000
+  - protobuf=3.0.0b2=py27_0
+  - pygpu=0.7.6=py27h7eb728f_0
+  - python=2.7.15=h33da82c_3
+  - pyyaml=3.13=py27h470a237_1
+  - readline=7.0=haf1bffa_1
+  - setuptools=40.4.3=py27_0
+  - six=1.11.0=py27_1001
+  - sqlite=3.25.2=hb1c47c0_0
+  - tensorflow=0.10.0=py27_0
+  - theano=1.0.3=py27_0
+  - tk=8.6.8=ha92aebf_0
+  - traceback2=1.4.0=py27_0
+  - unittest2=1.1.0=py_0
+  - werkzeug=0.14.1=py_0
+  - wheel=0.32.1=py27_0
+  - xz=5.2.4=h470a237_1
+  - yaml=0.1.7=h470a237_1
+  - zlib=1.2.11=h470a237_3
+  - blas=1.0=mkl
+  - intel-openmp=2019.0=118
+  - keras=1.1.1=py27_0
+  - mkl=2019.0=118
+  - numpy=1.15.0=py27h1b885b7_0
+  - numpy-base=1.15.0=py27h3dfced4_0
+  - scipy=1.1.0=py27hc49cb51_0
+prefix: /home/duo/anaconda3/envs/ddpg
+
